@@ -31,4 +31,4 @@ Sin GPU la ejecución tarda bastante más que en Colab.
 
 ## Autor
 
-- Nicolas Osses (TU_USUARIO)
+- Nicolas Osses 
