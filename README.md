@@ -12,7 +12,7 @@ El modelo final alcanza **89.95% de accuracy** y **F1 macro 0.899** en el conjun
 
 ## Ejecución en Google Colab
 
-1. Abrir el cuaderno en Colab: https://colab.research.google.com/github/TU_USUARIO/TU_REPO/blob/main/notebooks/EP1_MLP_Nicolas_osses_keras_final.ipynb
+1. Abrir el cuaderno en Colab
 2. Activar la GPU en Entorno de ejecución > Cambiar tipo de entorno de ejecución > T4.
 3. Ejecutar todo desde Entorno de ejecución > Ejecutar todas.
 
